@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/pacabytes/inkeep#readme",
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "discord.js": "^11.5.1"
   },
   "devDependencies": {
